@@ -46,8 +46,8 @@ FR/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/arishsaifi/face-recognition-attendance.git
-   cd face-recognition-attendance
+   git clone https://github.com/arishsaifi/face_recog_system.git
+   cd face_recog_system
    ```
 
 2. **Set Up a Virtual Environment:**
